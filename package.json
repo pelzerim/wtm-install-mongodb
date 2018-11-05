@@ -1,0 +1,22 @@
+{
+  "name": "wtp-install-mongodb",
+  "version": "1.0.0",
+  "description": "Quick explanation on how to install mongodb.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pelzerim/wtp-install-mongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pelzerim/wtp-install-mongodb/issues"
+  },
+  "homepage": "https://github.com/pelzerim/wtp-install-mongodb#readme",
+  "dependencies": {
+    "mongoose": "^5.3.9"
+  }
+}
