@@ -27,11 +27,17 @@ Please refer to the different linux guides on this [page](https://docs.mongodb.c
 
 # Test it
 
-Run 
+Run
 
 ```
+git clone git@github.com:pelzerim/wtm-install-mongodb.git
+cd wtm-install-mongodb
 npm install
 node index.js
 ```
 
 You should see `You did it! Your MongoDB is running.`
+
+# Install Robo 3T
+
+Please download and install Robo 3T, too. [Get it here](https://robomongo.org/download) You will only need Robo 3T, not Studio 3T.
